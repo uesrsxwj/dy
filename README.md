@@ -8,7 +8,7 @@
 - 采集用户评论（包含二级评论）
 - 其他加密接口（可通用）
 ## 2025年1月19号（可用）
-![image](https://github.com/uesrsxwj/XHS/blob/main/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%B1%95%E7%A4%BA%E5%9B%BE.png)
+![image](https://github.com/uesrsxwj/dy/blob/main/%E6%8A%96%E9%9F%B3%E7%AE%97%E6%B3%95.png)
 ## 基础设置
 - 需要用户cookie（账号信息）值进行本账号爬取或发布
 ## 需要的请添加我（需要收取费用）
